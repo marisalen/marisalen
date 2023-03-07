@@ -17,7 +17,7 @@
 <a href="https://github.com/sponsors/ReVanced">
   <img
     height="32px"
-    alt="Donate using GitHub"
+    alt="NEXT.JS"
     src="https://img.shields.io/badge/github%20sponsors-30363D?style=for-the-badge&logo=GitHub-Sponsors"
   />
 </a>
