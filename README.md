@@ -10,8 +10,16 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=marisalen&hide=contribs&show_icons=true&theme=github_dark) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marisalen&layout=compact&theme=github_dark)
 
-![](https://img.shields.io/static/v1?message=Maya&color=0696D7&logo=Autodesk&logoColor=white&label=) ![](https://img.shields.io/static/v1?message=3dsMax&color=0696D7&logo=Autodesk&logoColor=white&label=) ![](https://img.shields.io/badge/-Unity-222222.svg?logo=unity&logoColor=FFFFFF) ![](https://img.shields.io/badge/-VisualStudioCode-007ACC.svg?logo=visualstudiocode&style=plastic">) ![](https://img.shields.io/badge/-VisualStudio-5C2D91.svg?logo=visualstudio&style=plastic">) ![](https://img.shields.io/badge/-Git-F05032.svg?logo=git&logoColor=white)  
-
 <br/>
 
 <h2 align='left'> 🔨 Technologies & Tools </h2>
+
+<a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/static/v1?message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+<a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
