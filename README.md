@@ -4,6 +4,7 @@
 - 🔭 I’m always updating my work, so check it out at [my portfolio](http://myportfolio.mlenarduzzi.ca/)
 - 📫 How to reach me: marisalenarduzzi24@gmail.com
 
+<br/>
 
 <h2 align='left'> 🚀 Quick Stats </h2>
 
