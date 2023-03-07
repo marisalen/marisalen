@@ -14,6 +14,14 @@
 
 <h2 align='left'> 🔨 Technologies & Tools </h2>
 
+<a href="https://github.com/sponsors/ReVanced">
+  <img
+    height="32px"
+    alt="Donate using GitHub"
+    src="https://img.shields.io/badge/github%20sponsors-30363D?style=for-the-badge&logo=GitHub-Sponsors"
+  />
+</a>
+
 <a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
 <a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/static/v1?message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label="></a>
